@@ -1,0 +1,12 @@
+Data wrangling: The process of treating missing values and combining datasets to make them more accessible and easier to analyze.
+
+to perform the above process of analising data we use some of the standard libraries available in python namely.
+
+
+Pandas : Data Analysis and Data wrangling
+Numpy : Data Analysis and Data wrangling
+Matplotlib : Data Visualization
+Seaborn : Data Visualization
+SkLearn : Data Wrangling but mainly used for Machine Learning.
+
+
